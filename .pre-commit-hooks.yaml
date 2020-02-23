@@ -3,5 +3,5 @@
     description: '`makehook` is a pre-commit hook for makefiles'
     entry: makehook
     language: python
-    files: '**/*'
+    files: 'Makefile'
     require_serial: true
