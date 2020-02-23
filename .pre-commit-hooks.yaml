@@ -1,0 +1,7 @@
+-   id: makehook
+    name: makehook
+    description: '`makehook` is a pre-commit hook for makefiles'
+    entry: makehook
+    language: python
+    types: [python]
+    require_serial: true
