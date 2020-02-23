@@ -8,7 +8,7 @@ repos:
     -   id: end-of-file-fixer
     -   id: check-yaml
     -   id: check-added-large-files
-# -   repo: https://github.com/koaning/makehook
-#     rev: master
-#     hooks:
-#     -   id: makehook
+-   repo: https://github.com/koaning/makehook
+    rev: master
+    hooks:
+    -   id: makehook
